@@ -1,4 +1,4 @@
-#sjwarner's dotfiles
+# sjwarner's dotfiles
 
 In this repo, I store my dotfiles. While mainly this is due to my paranoia of some catastrophic failure of my laptop, anyone that is interested are free to use them!
 
